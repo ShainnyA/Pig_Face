@@ -1,0 +1,109 @@
+.main{
+    padding-bottom: 20px;
+    }
+.ear{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: -80px;
+    padding-left: 300px;
+}
+.rear{
+    height: 150px;
+    width: 100px;
+    background: pink;
+    border-radius: 50px;
+    border: 3px solid black;
+}
+
+.lear{
+    height: 150px;
+    width: 100px;
+    background: pink;
+    border-radius: 50px;
+    border: 3px solid black;
+    margin-left: -400px;
+}
+
+.face{
+    height: 300px;
+    width: 300px;
+    background: pink;
+    border: 3px solid black;
+    border-radius: 50%;
+    position:absolute;
+    margin-left: 730px;
+    margin-top: -8%;
+    
+}
+
+
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+
+
+.leye{
+    height: 50px;
+    width: 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+.lpupil{
+    height: 25px;
+    width: 25px;
+    background: rgb(0, 0, 0);
+    border-radius: 75%;
+    margin-top:11px;
+    margin-left: 11px;
+
+}
+.reye{
+    height: 50px;
+    width: 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+.rpupil{
+    height: 25px;
+    width: 25px;
+    background: rgb(0, 0, 0);
+    border-radius: 75%;
+    margin-top:11px;
+    margin-left: 11px;
+}
+
+.nose{
+    height: 55px;
+    width: 110px;
+    background: rgb(210, 12, 12);
+    margin: auto;
+    margin-top: 20%;
+    border: 3px solid #000000;
+    border-radius: 50px;
+}
+
+.nostril1{
+    height: 25px;
+    width: 25px;
+    background: rgb(0, 0, 0);
+    border-radius: 50%;
+    margin-top : 10%;
+    margin-left: 20%;
+  
+}
+.nostril2{
+    height: 25px;
+    width: 25px;
+    background: rgb(0, 0, 0);
+    border-radius: 50%;
+    margin-top: -22%;
+    margin-left: 60%;
+
+  
+}
+
+
+
+
